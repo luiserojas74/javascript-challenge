@@ -1,3 +1,17 @@
+## About
+   - This is the project I developed for unit 14 of the Boot Camp: [Data Visualization and Analytics](https://bootcamp.uncc.edu/data/)
+   - I created a dashboard to visualize a dynamic table with eye-witness reports about extra-terrestrial menace. For more details, see [here](#the-original-text-of-the-homework-assignment).
+   - Here is a snapshot of the app: 
+<img src="Images/app.png" width="600" height="400">
+
+   - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
+   - The main tools I used on this project are : html, css and [D3] (https://d3js.org/).
+   
+
+
+
+## **_The original text of the homework assignment:_** 
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
