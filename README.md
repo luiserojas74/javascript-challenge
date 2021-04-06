@@ -4,7 +4,7 @@
    - Here is a snapshot of the app: 
 <img src="UFO-level-2/static/images/UFO.png" width="600" height="400">
 
-   - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
+  ### - The link for the app of this project is [here](https://luiserojas74.github.io/javascript-challenge/UFO-level-2/).
    - The main tools I used on this project are : html, css and [D3] (https://d3js.org/).
    
 
