@@ -32,7 +32,7 @@ var form = d3.select("#form");
 
 // Create event handlers 
 button.on("click", runFilter);
-form.on("keydown", runFilter);
+form.on("submit", runFilter);
 
 // Complete the event handler function for the form
 function runFilter() {
